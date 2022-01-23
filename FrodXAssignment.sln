@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrodXAssignment", "FrodXAssignment\FrodXAssignment.csproj", "{00D79F5E-67FE-4558-ACD0-93CED1EB13E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "Plugins\Plugins.csproj", "{72797FE1-8E97-47AE-A27D-9869B363A1E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00D79F5E-67FE-4558-ACD0-93CED1EB13E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D79F5E-67FE-4558-ACD0-93CED1EB13E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D79F5E-67FE-4558-ACD0-93CED1EB13E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D79F5E-67FE-4558-ACD0-93CED1EB13E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72797FE1-8E97-47AE-A27D-9869B363A1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72797FE1-8E97-47AE-A27D-9869B363A1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72797FE1-8E97-47AE-A27D-9869B363A1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72797FE1-8E97-47AE-A27D-9869B363A1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AC41943-F157-4B18-A330-774E7DF79A64}
+	EndGlobalSection
+EndGlobal
