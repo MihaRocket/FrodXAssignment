@@ -12,9 +12,9 @@ namespace CRM
     {
         static void Main(string[] args)
         {
-            string url = "https://org9210cc95.crm4.dynamics.com/";
-            string userName = "MihaNabergoj@FrodX254.onmicrosoft.com";
-            string password = "Geslo123";
+            string url = "";
+            string userName = "";
+            string password = "";
 
             string conn =
                 $@" Url = {url};
